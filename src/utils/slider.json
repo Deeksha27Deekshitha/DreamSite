@@ -1,0 +1,57 @@
+[
+    {
+      "name": "Varthur",
+      "price": "11,200/ sq.ft",
+      "detail": "Bangalore East",
+      "image": "./r6.jpg"
+    },
+    {
+      "name": "Sarjapur",
+      "price": "14,560/ sq.ft",
+      "detail": "Bangalore East",
+      "image": "./r2.jpg"
+    },
+    {
+      "name": "Tumkur Road",
+      "price": "17,980/ sq.ft",
+      "detail": "Bangalore West",
+      "image": "./r7.jpg"
+    },
+    {
+      "name": "Gunjur",
+      "price": "11,200/ sq.ft",
+      "detail": "Bangalore East",
+      "image": "./r4.jpg"
+    },
+    {
+      "name": "Kundalahalli",
+      "price": "17,200/ sq.ft",
+      "detail": "Bangalore East",
+      "image": "./r55.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "11,300/ sq.ft",
+      "detail": "Bangalore East",
+      "image": "./r6.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "19,400/ sq.ft",
+      "detail": "Bangalore North",
+      "image": "./r7.jpg"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "18,200/ sq.ft",
+      "detail": "Bangalore West",
+      "image": "./r4.jpg"
+    },
+   
+    {
+      "name": "Citralan Puri Serang",
+      "price": "17,200/ sq.ft",
+      "detail": "Bangalore North",
+      "image": "./r6.jpg"
+    }
+  ]
