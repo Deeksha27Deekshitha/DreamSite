@@ -14,20 +14,7 @@ const Footer = () => {
                     Our Vision is to providing you the best properties
                 </span>
             </div>
-            {/* right side */}
-            <div className="flexColStart f-right">
-              <span className="primaryText">
-                Information
-              </span>
-              <span className='secondaryText'>Bangalore,Karnataka</span>
-
-              <div className="flexCenter f-menu">
-                <span>Property</span>
-                <span>Services</span>
-                <span>Product</span>
-                <span>About Us</span>
-              </div>
-            </div>
+           
         </div>
     </section>
   )
