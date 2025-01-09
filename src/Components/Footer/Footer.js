@@ -3,15 +3,18 @@ import './Footer.css'
 
 const Footer = () => {
   return (
-    <section className="f-wrapper">
-        <div className="paddings innerWidth flexCenter f-container">
+    <section >
+        <div className="paddings innerWidth ">
 
-
-            {/* left Side */}
-            <div className="flexColStart f-left">
+            <div className="flexColStart f-center">
                 <img src="./logo1.png" alt="Logo" width={120}/>
-                <span className="secondaryText">
+                <span className="secondaryText f-center ">
                     Our Vision is to providing you the best properties
+
+                </span>
+                <span className="secondaryText f-center ">
+                    &copy; 2025 DreamSite 
+
                 </span>
             </div>
            
