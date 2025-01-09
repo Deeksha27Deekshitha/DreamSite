@@ -13,7 +13,7 @@ const Contact = () => {
         <div className="c-left flexColStart">
             <span className='orangeText'>Our Contacts</span>
             <span className='primaryText'>Easy to Contact us</span>
-            <span className='secondaryText'>Exercitation in fugiat est ut ad ea cupidatat occaecat consequat est minim minimm esse tempor laborum consequat esse adipisicing eu reprehenderit enim</span>
+            <span className='secondaryText'>We make it easy to get in touch with us, ensuring prompt and helpful responses to all your inquiries</span>
             <div className="flexColStart contactModes">
               {/* First row */}
               <div className="flexColStart row">
